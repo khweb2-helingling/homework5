@@ -1,0 +1,16 @@
+﻿p{
+  font-size:14px;
+}
+body h2{
+  font-size:16px;
+}
+.c1{
+  color:red;
+}
+.c1~h2{
+  color:blue;
+}
+#pic1{
+  width:887px;
+  heigth:439px;
+}
